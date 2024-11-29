@@ -1,0 +1,8 @@
+[package]
+name = "app-launcher"
+version = "0.1.0"
+edition = "2021"
+authors = ["kazumasa matsumoto <kazumasa.matsumoto62@gmail.com>"]
+description = "アプリケーションランチャーCLI"
+
+[dependencies]
